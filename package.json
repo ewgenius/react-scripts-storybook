@@ -1,0 +1,9 @@
+{
+  "name": "react-scripts-storybook",
+  "version": "1.0.0",
+  "description": "create-react-app addon for react-storybook support without config",
+  "main": "index.js",
+  "repository": "git@github.com:ewgenius/react-scripts-storybook.git",
+  "author": "Evgeniy Khramkov <ewgeniux@gmail.com>",
+  "license": "MIT"
+}
